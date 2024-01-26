@@ -10,5 +10,6 @@ Within this repository, my goal is to elucidate and implement various topics and
 - binomial RV
 - Poisson RV
 - Exponential RV
+- Normal RV
 ---------------------------------------------------------------------------------------------------
   
