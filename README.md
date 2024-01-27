@@ -11,5 +11,6 @@ Within this repository, my goal is to elucidate and implement various topics and
 - Poisson RV
 - Exponential RV
 - Normal RV
+- Binomial Approximation using Normal RV
 ---------------------------------------------------------------------------------------------------
   
